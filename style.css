@@ -1,0 +1,16 @@
+
+  .meal-card {
+    padding: 20px;
+    width: 70%;
+    padding: 20px;
+  }
+
+  .detail-img {
+    height: 238px;
+    width: 85%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.meal-name{
+    font-size: 25px;
+}
